@@ -26,6 +26,6 @@ Lo anterior lo implemento como muestro en la siguiente imagen:
 
 ![Código Espera 3 segundos](./screenshots/code_3_segundos.png)
 
-Al ejecutar la función asíncrona **mostrarMensaja** con el argumento igual a la llamada de la función **ejecucionMensaje** se muestra en consola el siguiente mensaje a los 3 segundos:
+Al ejecutar la función asíncrona **mostrarMensaje** con el argumento igual a la llamada de la función **ejecucionMensaje** se muestra en consola el siguiente mensaje a los 3 segundos:
 
 ![Mensaje 3 segundos](./screenshots/mensaje_3_segundos.png)
